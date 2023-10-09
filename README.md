@@ -2,8 +2,8 @@
 Repositório para guardar resumos e informações sobre o curso de formação em Angular da [DIO](https://www.dio.me)
 
 ## 📑 documentação
-- [Link do Curso]([htt](https://www.dio.me/curso-angular)
-- [documentação Angular](https://angular.io/docs))
+- [Link do Curso](https://www.dio.me/curso-angular)
+- [documentação Angular](https://angular.io/docs)
 
 ## 🖥️ Resumos das Aulas
 
