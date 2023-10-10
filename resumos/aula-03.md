@@ -1,4 +1,4 @@
-# Arquivo SRC out (fora da pasta SRC)
+# Arquivos SRC-out (fora da pasta SRC)
 
 ## 📁 SRC
 - Pasta onde fica todo o código fonte editado e criado pelo desenvolvedor.
