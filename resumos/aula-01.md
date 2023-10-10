@@ -1,6 +1,6 @@
 # Aula 1 - Entendendo a composição de componentes
 
-## :red_question_mark: O que são componentes:
+## :question: O que são componentes:
 - um elemento que seja visual, customizável e replicável.
 - é um pedacinho da sua aplicação como, como uma peça de Lego, onde vc poode montar varias coisas diferentes com as mesmas peças.
 
