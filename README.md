@@ -9,8 +9,8 @@ Repositório para guardar resumos e informações sobre o curso de formação em
 
 | Aulas | Resumos |
 |-------|---------|
-| Aula 1 | [Resumo](https://github.com/luane-loureiro/Curso-Angular-DIO/blob/main/resumos/aula-01) |
-| Aula 2 | [Resumo]() |
+| Aula 1 | [Resumo](https://github.com/luane-loureiro/Curso-Angular-DIO/blob/main/resumos/aula-01.md) |
+| Aula 2 | [Resumo](https://github.com/luane-loureiro/Curso-Angular-DIO/blob/main/resumos/aula-02.md) |
 
 
 ## 📟 Codigos
