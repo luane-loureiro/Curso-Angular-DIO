@@ -1,1 +1,1 @@
-
+Para configurar um componente, no arquivo TS é passado o decorador @Component. Esse decorador é um método que recebe um objeto com os metadados como parâmetro. É criado um seletor, que será usado como tag HTML em outro template, o template passando o caminho do arquivo HTML, mas pode ser passado inline, e o arquivo de folha de estilo ou, assim como o template, passado inline.
